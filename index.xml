@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WDocs</title>
+    <link>https://hwkim89.github.io/</link>
+    <description>Recent content on WDocs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy;{year}. WDocs All Rights Reserved.</copyright>
+    <lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://hwkim89.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Deep Neural Networks with PyTorch</title>
+        <link>https://hwkim89.github.io/docs/deep-learning/pytorch/deep-neural-networks-with-pytorch/</link>
+        <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://hwkim89.github.io/docs/deep-learning/pytorch/deep-neural-networks-with-pytorch/</guid>
+        <description>Week1. Tensor and Datasets  Overview of Tensors Tensors 1D Two Dimensional Tensors Differentiation in PyTorch Simple Dataset Dataset  Week2. Linear Regression with PyTorch Linear Regression  Linear Regression Prediction Linear Regression Training Loss Gradient Descent Cost Linear Regression PyTorch PyTorch Linear Regression Training Slope and Bias  Linear Regression PyTorch Way  Stochastic Gradient Descent Mini-Batch Gradient Descent Optimization in PyTorch Training, Validation and Test Split  Week3. Multiple Linear Regression and Logistic Regression Multiple Input Output Linear Regression  Multiple Linear Regression Prediction Multiple Linear Regression Training Linear Regression Multiple Outputs Multiple Output Linear Regression Training  Logistic Regression for Classification  Linear Classifier Logistic Regression: Prediction Bernoulli Distribution and Maximum Likelihood Estimation Logistic Regression Cross Entropy Loss  Week4.</description>
+      </item>
+      
+      <item>
+        <title>Welcome to WDocs</title>
+        <link>https://hwkim89.github.io/index.html</link>
+        <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://hwkim89.github.io/index.html</guid>
+        <description>I will organize everthing I know on this website such as Mathematics, English, Computer science, Deep learning, Computer vision and so on.</description>
+      </item>
+      
+      <item>
+        <title>머신러닝</title>
+        <link>https://hwkim89.github.io/docs/deep-learning/dl-first-step/ml/</link>
+        <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://hwkim89.github.io/docs/deep-learning/dl-first-step/ml/</guid>
+        <description>인공지능, 머신러닝, 딥러닝 딥러닝을 알아보기 전에 일반 사람들이 헷갈리는 부분을 먼저 살펴보자. 사람들이 인공지능, 머신러닝, 딥러닝을 혼용해서 많이 사용하</description>
+      </item>
+      
+    
+  </channel>
+</rss>

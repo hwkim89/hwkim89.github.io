@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>딥러닝 첫걸음 on WDocs</title>
+    <link>https://hwkim89.github.io/docs/deep-learning/dl-first-step/</link>
+    <description>Recent content in 딥러닝 첫걸음 on WDocs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy;{year}. WDocs All Rights Reserved.</copyright>
+    <lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://hwkim89.github.io/docs/deep-learning/dl-first-step/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>머신러닝</title>
+        <link>https://hwkim89.github.io/docs/deep-learning/dl-first-step/ml/</link>
+        <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://hwkim89.github.io/docs/deep-learning/dl-first-step/ml/</guid>
+        <description>인공지능, 머신러닝, 딥러닝 딥러닝을 알아보기 전에 일반 사람들이 헷갈리는 부분을 먼저 살펴보자. 사람들이 인공지능, 머신러닝, 딥러닝을 혼용해서 많이 사용하</description>
+      </item>
+      
+    
+  </channel>
+</rss>
